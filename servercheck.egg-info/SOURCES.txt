@@ -1,0 +1,7 @@
+setup.py
+servercheck.egg-info/PKG-INFO
+servercheck.egg-info/SOURCES.txt
+servercheck.egg-info/dependency_links.txt
+servercheck.egg-info/entry_points.txt
+servercheck.egg-info/requires.txt
+servercheck.egg-info/top_level.txt
